@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enishisoy.github.io/mio-tada/sitemap.xml
